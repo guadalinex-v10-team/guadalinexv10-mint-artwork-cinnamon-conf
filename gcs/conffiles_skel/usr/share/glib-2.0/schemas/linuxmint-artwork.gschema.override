@@ -54,7 +54,7 @@ name='Guadalinex'
 
 [org.cinnamon]
 favorite-apps=['firefox.desktop', 'nautilus.desktop', 'thunderbird.desktop']
-panel-launchers=['firefox.desktop', 'help-mantis.desktop', 'gnome-terminal.desktop', 'nemo.desktop']
+panel-launchers=['firefox.desktop', 'help-mantis.desktop', 'gnome-terminal.desktop', 'nautilus.desktop']
 
 [org.gnome.settings-daemon.peripherals.touchpad]
 tap-to-click=true
