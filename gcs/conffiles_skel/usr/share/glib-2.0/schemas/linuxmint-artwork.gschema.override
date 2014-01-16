@@ -13,14 +13,14 @@ document-font-name="Sans 10"
 primary-color="#000000"
 secondary-color="#000000"
 color-shading-type="solid"
-picture-uri='/usr/share/backgrounds/guadalinex/guadalinexv9_panoramico.jpg'
+picture-uri='file:///usr/share/backgrounds/guadalinex/guadalinexv9_panoramico.jpg'
 picture-opitions="streched"
 
 [org.gnome.desktop.background]
 primary-color="#000000"
 secondary-color="#000000"
 color-shading-type="solid"
-picture-uri='/usr/share/backgrounds/guadalinex/guadalinexv9_panoramico.jpg'
+picture-uri='file:///usr/share/backgrounds/guadalinex/guadalinexv9_panoramico.jpg'
 picture-options="streched"
 show-desktop-icons=true
 
