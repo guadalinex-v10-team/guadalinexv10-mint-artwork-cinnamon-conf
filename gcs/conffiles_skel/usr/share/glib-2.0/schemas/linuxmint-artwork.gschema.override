@@ -28,7 +28,7 @@ show-desktop-icons=true
 computer-icon-visible=true
 home-icon-visible=true
 volumes-visible=true
-thras-icon-visible=true
+trash-icon-visible=true
 font="Sans 10"
 
 [org.nemo.windows-state]
