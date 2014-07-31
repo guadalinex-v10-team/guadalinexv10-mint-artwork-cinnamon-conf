@@ -1,27 +1,24 @@
 [org.cinnamon.desktop.interface]
 cursor-theme='DMZ-White'
 gtk-key-theme='Default'
-gtk-theme='Guada'
-icon-theme='Mint-X'
+gtk-theme='Gecos'
+icon-theme='Gecos'
 menus-have-icons=true
 toolkit-accessibility=false
 font-name="Sans 10"
-monospace-font-name="Monospace 10"
-document-font-name="Sans 10"
 
 [org.cinnamon.desktop.background]
 primary-color="#000000"
 secondary-color="#000000"
 color-shading-type="solid"
 picture-uri='/usr/share/backgrounds/guadalinex/guadalinexv9_panoramico.jpg'
-picture-opitions="streched"
+picture-options="streched"
 
 [org.gnome.desktop.background]
 primary-color="#000000"
 secondary-color="#000000"
 color-shading-type="solid"
 picture-uri='/usr/share/backgrounds/guadalinex/guadalinexv9_panoramico.jpg'
-picture-options="streched"
 show-desktop-icons=true
 
 [org.nemo.desktop]
