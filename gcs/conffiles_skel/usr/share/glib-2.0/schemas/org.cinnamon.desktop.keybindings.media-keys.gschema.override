@@ -1,0 +1,4 @@
+[org.cinnamon.desktop.keybindings.media-keys]
+screenreader=['<Alt><Super>s']
+
+
