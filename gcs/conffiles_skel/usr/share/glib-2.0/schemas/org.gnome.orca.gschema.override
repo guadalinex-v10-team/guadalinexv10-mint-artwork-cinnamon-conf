@@ -1,0 +1,9 @@
+[org.gnome.orca.profile.default]
+speech-server-info = ['festival','festival']
+
+[org.gnome.orca.profile.default.voice.default]
+family-set = true
+locale = es
+name = JuntaDeAndalucia_es_pa_diphone
+
+
