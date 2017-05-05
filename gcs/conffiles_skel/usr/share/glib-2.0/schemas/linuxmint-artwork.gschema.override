@@ -25,7 +25,7 @@ show-desktop-icons=true
 computer-icon-visible=true
 home-icon-visible=true
 volumes-visible=true
-thras-icon-visible=true
+trash-icon-visible=true
 font="Sans 10"
 
 [org.nemo.windows-state]
@@ -90,8 +90,8 @@ maximize-enabled=true
 maximize-file="/usr/share/mint-artwork-cinnamon/sounds/maximize.oga"
 unmaximize-enabled=true
 unmaximize-file="/usr/share/mint-artwork-cinnamon/sounds/unmaximize.oga"
-title-enabled=true
-title-file="/usr/share/mint-artwork-cinnamon/sounds/title.oga"
+tile-enabled=true
+tile-file="/usr/share/mint-artwork-cinnamon/sounds/title.oga"
 plug-enabled=true
 plug-file="/usr/share/mint-artwork-cinnamon/sounds/plug.oga"
 unplug-enabled=true
